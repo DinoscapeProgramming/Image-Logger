@@ -1,1 +1,1 @@
-console.image("https://stackoverflow.com/favicon.ico")
+console.image("https://avatars.githubusercontent.com/u/95239392?v=4")
