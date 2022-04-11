@@ -1,0 +1,1 @@
+console.image("https://stackoverflow.com/favicon.ico")
