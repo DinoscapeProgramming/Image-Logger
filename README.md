@@ -26,13 +26,22 @@ console.image("imageURL")
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>Website Builder</title>
+  <title>Image Logger</title>
 </head>
 
 <body>
-  <script src="website-builder.js"></script>
-  <script src="script.example.js"></script>
+  <script src="image-logger.js"></script>
+  <script src="script.js"></script>
 </body>
 
 </html>
+```
+
+### script.js
+```js
+console.image("https://avatars.githubusercontent.com/u/95239392?v=4")
+```
+
+### image-logger.js
+Copy the file from this repository
 ```
