@@ -44,4 +44,3 @@ console.image("https://avatars.githubusercontent.com/u/95239392?v=4")
 
 ### image-logger.js
 Copy the file from this repository
-```
