@@ -19,3 +19,20 @@ console.image("imageURL")
 ## Example
 
 ### index.html
+```html
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Website Builder</title>
+</head>
+
+<body>
+  <script src="website-builder.js"></script>
+  <script src="script.example.js"></script>
+</body>
+
+</html>
+```
